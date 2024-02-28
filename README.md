@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About project
+
+99 cents travels is a landing page for a travel mobile application developed with Next.js, React, and Tailwind.
+
+[Website](https://travel-app-amber-six.vercel.app/)
+
+![Captura](https://github.com/bryan0545/travel-app/assets/65412386/99f28333-7a30-43c7-9dab-a6fad223e397)
+
+![Captura](https://github.com/bryan0545/travel-app/assets/65412386/7f97b67e-9252-45bb-93f7-21b6b8529d5c)
+
+![Captura](https://github.com/bryan0545/travel-app/assets/65412386/c8612565-e35c-4cde-9551-119cd93a4f38)
 
 ## Getting Started
 
