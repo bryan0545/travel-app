@@ -2,7 +2,7 @@
 
 99 cents travels is a landing page for a travel mobile application developed with Next.js, React, and Tailwind.
 
-[Website](https://travel-app-amber-six.vercel.app/)
+[Website](https://99cents-travel.vercel.app/)
 
 ![Captura](https://github.com/bryan0545/travel-app/assets/65412386/99f28333-7a30-43c7-9dab-a6fad223e397)
 
